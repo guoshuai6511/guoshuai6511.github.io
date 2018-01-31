@@ -1503,6 +1503,9 @@ pre .javascript .function {
   font-size: 12px;
   text-align: center;
 }
+.posts-expand .post-meta a {
+  color: #76c19f;
+}
 .posts-expand .post-meta .post-category-list {
   display: inline-block;
   margin: 0;
@@ -1824,7 +1827,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8eb5cd;
+  background: #ff9;
 }
 .links-of-blogroll {
   font-size: 13px;
